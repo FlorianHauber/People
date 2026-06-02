@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\flori\\source\\repos\\People\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7129A74-3397-449C-9193-64467757FE85}|People\\People.csproj|c:\\users\\flori\\source\\repos\\people\\people\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7129A74-3397-449C-9193-64467757FE85}|People\\People.csproj|solutionrelative:people\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{136A3DE3-227F-2709-D836-EFFFEDC2F7DE}|People\\People.csproj|c:\\users\\flori\\source\\repos\\people\\people\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136A3DE3-227F-2709-D836-EFFFEDC2F7DE}|People\\People.csproj|solutionrelative:people\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136A3DE3-227F-2709-D836-EFFFEDC2F7DE}|People\\People.csproj|c:\\users\\flori\\source\\repos\\people\\people\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136A3DE3-227F-2709-D836-EFFFEDC2F7DE}|People\\People.csproj|solutionrelative:people\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "People.cs",
+              "DocumentMoniker": "C:\\Users\\flori\\source\\repos\\People\\People\\People.cs",
+              "RelativeDocumentMoniker": "People\\People.cs",
+              "ToolTip": "C:\\Users\\flori\\source\\repos\\People\\People\\People.cs",
+              "RelativeToolTip": "People\\People.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:52:04.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\flori\\source\\repos\\People\\People\\Program.cs",
               "RelativeDocumentMoniker": "People\\Program.cs",
               "ToolTip": "C:\\Users\\flori\\source\\repos\\People\\People\\Program.cs",
               "RelativeToolTip": "People\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwA8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-01T13:55:55.503Z",
               "EditorCaption": ""
