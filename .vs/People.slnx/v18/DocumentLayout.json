@@ -38,8 +38,7 @@
               "RelativeToolTip": "People\\People.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAiwCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T11:52:04.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T11:52:04.251Z"
             },
             {
               "$type": "Document",
@@ -47,9 +46,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\flori\\source\\repos\\People\\People\\Program.cs",
               "RelativeDocumentMoniker": "People\\Program.cs",
-              "ToolTip": "C:\\Users\\flori\\source\\repos\\People\\People\\Program.cs",
-              "RelativeToolTip": "People\\Program.cs",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAYwLMAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\flori\\source\\repos\\People\\People\\Program.cs*",
+              "RelativeToolTip": "People\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-01T13:55:55.503Z",
               "EditorCaption": ""

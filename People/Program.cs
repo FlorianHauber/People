@@ -10,7 +10,7 @@ namespace People
     internal class Program
     {
         private static People person = new People(); //i would have to pass it all the time if i dont declare it as static
-        private static string[] persons = new string[10];
+        private static People[] persons = new People[10];
         private static string[] personDetails = new string[persons.Length];
 
         private static void Main(string[] args)
